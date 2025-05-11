@@ -6,6 +6,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+
+        <h1>Watch Later</h1>
+
+        <p>Get started by adding a show or movie you want to watch and give it a tag</p>
+
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
